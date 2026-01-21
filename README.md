@@ -54,14 +54,4 @@ Hands-on implementations to understand concepts like classification and pattern 
 
 ---
 
-## 📈 GitHub Activity
-
-I use GitHub to:
-- Track my learning
-- Improve projects incrementally
-- Practice clean commits and version control
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lahari-v&show_icons=true&theme=default)
-
-
 Thanks for stopping by — feel free to explore my repositories 🙂
